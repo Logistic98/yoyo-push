@@ -1,0 +1,16 @@
+[Environment]
+env = dev / prod
+proxy = http://127.0.0.1:1080
+timed_task = 00:00
+
+[MySQL]
+host = 127.0.0.1
+user = root
+password = 123456
+port = 3306
+db = yoyo_push
+
+[TelegramBot]
+bot_name = your_bot_name
+token = your_token
+chat_id = your_chat_id
