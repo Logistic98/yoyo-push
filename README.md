@@ -1,6 +1,6 @@
 ## yoyo-push
 
-一个用于推送好友生日及好友纪念日的 Telegram Bot。详见我的博客：[Telegram及Telegram-bot使用指南.html](https://www.eula.club/blogs/Telegram及Telegram-bot使用指南.html)
+一个用于推送好友生日及好友纪念日的 Telegram Bot。详见我的博客：[Telegram及TelegramBot使用指南](https://www.imiao.top/blogs/Telegram及TelegramBot使用指南.html)
 
 ### 1. 申请自己的 Telegram Bot
 

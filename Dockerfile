@@ -1,5 +1,5 @@
-# 基于python3.7镜像创建新镜像
-FROM python:3.7
+# 基于python:3.7-slim创建新镜像
+FROM python:3.7-slim
 # 创建容器内部目录
 RUN mkdir /code
 # 将项目复制到内部目录
